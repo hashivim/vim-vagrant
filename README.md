@@ -1,8 +1,8 @@
 # vagrant.vim
 
-This plugin adds a `:Vagrant` command that runs vagrant. It also sets up
-Vagrantfiles to be highlighted as Ruby. Eventually I want to add
-tab-completion for the various Vagrant subcommands.
+This plugin adds a `:Vagrant` command that runs vagrant, with tab
+completion of subcommands. It also sets up Vagrantfiles to be highlighted
+as Ruby.
 
 ## Installation
 
