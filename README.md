@@ -1,4 +1,4 @@
-# vagrant.vim
+# vim-vagrant
 
 This plugin adds a `:Vagrant` command that runs vagrant, with tab
 completion of subcommands. It also sets up Vagrantfiles to be highlighted
