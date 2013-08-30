@@ -15,7 +15,7 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <mark@markcornick.com>. I fumbled my way through
+Written by Mark Cornick <mark@cornick.io>. I fumbled my way through
 VimL by reading @tpope's code, so thanks to him.
 
 Licensed under the MIT license.
