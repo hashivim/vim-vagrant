@@ -7,7 +7,7 @@ endif
 let g:loaded_vagrant = 1
 
 function! s:commands(A, L, P)
-  return "box\ndestroy\nhalt\ninit\npackage\nplugin\nprovision\nreload\nresume\nssh\nssh-config\nstatus\nsuspend\nup"
+  return "box\ndestroy\nhalt\ninit\npackage\nplugin\nprovision\nrebuild\nreload\nresume\nssh\nssh-config\nstatus\nsuspend\nup"
 endfunction
 
 augroup vagrant
