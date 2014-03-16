@@ -1,8 +1,8 @@
 *vagrant.txt*  basic vim/vagrant integration
 
-Author:  Mark Cornick <https://github.com/markcornick>
+Author:  Mark Cornick <https://bitbucket.org/markcornick>
 License: MIT license
-Repo:    https://github.com/markcornick/vim-vagrant
+Repo:    https://bitbucket.org/markcornick/vim-vagrant
 
 COMMANDS                                        *vagrant*
 

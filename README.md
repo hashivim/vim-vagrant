@@ -9,7 +9,7 @@ as Ruby.
 With [pathogen.vim](https://github.com/tpope/vim-pathogen) just do:
 
     cd ~/.vim/bundle
-    git clone git://github.com/markcornick/vim-vagrant.git
+    git clone git://bitbucket.org/markcornick/vim-vagrant.git
 
 If you prefer to use something besides pathogen, go ahead.
 
