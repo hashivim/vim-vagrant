@@ -19,6 +19,7 @@ function! s:commands(A, L, P)
   \ "package",
   \ "plugin",
   \ "provision",
+  \ "push",
   \ "rackspace",
   \ "rdp",
   \ "reload",
