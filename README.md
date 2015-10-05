@@ -15,7 +15,11 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <mark@markcornick.com>. I fumbled my way through
+Written by Mark Cornick <https://www.markcornick.com/>. I fumbled my way through
 VimL by reading @tpope's code, so thanks to him.
 
 Licensed under the MIT license.
+
+This project is intended to be a safe, welcoming space for collaboration, and
+contributors are expected to adhere to the [Contributor
+Covenant](contributor-covenant.org) code of conduct.
