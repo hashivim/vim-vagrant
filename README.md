@@ -18,7 +18,7 @@ If you prefer to use something besides pathogen, go ahead.
 Written by Mark Cornick <https://www.markcornick.com/>. I fumbled my way through
 VimL by reading @tpope's code, so thanks to Tim.
 
-Licensed under the MIT license.
+Licensed under the ISC license.
 
 This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the [Contributor
