@@ -9,14 +9,14 @@ as Ruby.
 With [pathogen.vim](https://github.com/tpope/vim-pathogen) just do:
 
     cd ~/.vim/bundle
-    git clone https://github.com/markcornick/vim-vagrant.git
+    git clone https://github.com/hashivim/vim-vagrant.git
 
 If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
-Written by Mark Cornick <https://www.markcornick.com/>. I fumbled my way through
-VimL by reading @tpope's code, so thanks to Tim.
+Originally written by Mark Cornick <https://www.markcornick.com/>. I fumbled my
+way through VimL by reading @tpope's code, so thanks to Tim.
 
 Licensed under the ISC license.
 
