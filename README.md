@@ -22,6 +22,10 @@ If you prefer to use something besides pathogen, go ahead.
 
 ## Credits
 
+Thanks to these contributors:
+
+* Denny Schäfer @tuxinaut
+
 Originally written by Mark Cornick <https://www.markcornick.com/>. I fumbled my
 way through VimL by reading @tpope's code, so thanks to Tim.
 
