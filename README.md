@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Supports%20Vagrant%20Version-1.9.2-blue.svg)](https://github.com/hashicorp/vagrant/blob/v1.9.2/CHANGELOG.md)
+
 # Call For Maintainers
 
 This plugin, along with others like it, is now maintained by the
