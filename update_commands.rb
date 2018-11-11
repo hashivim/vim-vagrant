@@ -9,11 +9,7 @@ plugin_file = 'plugin/vagrant.vim'
 
 # Create the list of commands.
 stdout, stderr, _status = Open3.capture3('vagrant list-commands')
-output = if stderr == ''
-           stdout.split("\n")
-         else
-           stderr.split("\n")
-         end
+output = stdout.split("\n")
 commands = output.collect do |l|
   match = command_re.match(l)
   "  \\ \"#{match[1]}\"" if match

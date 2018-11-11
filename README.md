@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Supports%20Vagrant%20Version-2.0.1-blue.svg)](https://github.com/hashicorp/vagrant/blob/v2.0.1/CHANGELOG.md)
+[![](https://img.shields.io/badge/Supports%20Vagrant%20Version-2.2.0-blue.svg)](https://github.com/hashicorp/vagrant/blob/v2.2.0/CHANGELOG.md)
 
 # Call For Maintainers
 
